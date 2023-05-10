@@ -1,3 +1,3 @@
 # ansible
 ---
-*Just smile and wave boys.*
+*Just smile and wave boys!*
